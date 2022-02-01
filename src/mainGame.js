@@ -112,7 +112,7 @@ function hintProducer() {
 function answers() {
     var ans1 = window.prompt("Enter your answer - ");
 
-    if (ans1.toLowerCase == answer[level - 1].toLowerCase) {
+    if (ans1.toLowerCase() == answer[level - 1].toLowerCase()) {
         level++;
         imageDeveloper(level);
         layerIt(0);
