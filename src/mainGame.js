@@ -116,7 +116,7 @@ function answers() {
         level++;
         imageDeveloper(level);
         layerIt(0);
-        if (hintTaken == 1) { score += 50; }
+        if (hintTaken <= 1) { score += 50; }
         if (hintTaken == 2) { score += 30; }
         if (hintTaken == 3) { score += 10; }
         alert("Correct Answer");
