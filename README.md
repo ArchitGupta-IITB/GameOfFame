@@ -1,6 +1,9 @@
 # GameOfFame
 Game Of Fame created By Archit Gupta and Ojas Jain
+<<<<<<< HEAD
 
+=======
+>>>>>>> f5ada4afaf1d80b08360bb074b503b4549d655c9
 The Game of Fame has been decided by Ojas Jain and Archit Gupta. Read the following instructions to download the game, understand its rules and play.
 
 Steps to Download -
@@ -18,4 +21,8 @@ Game Rules -
 6. Ensure the minimimum number of hints and the maximum number of correct guesses to maximise your score.
 
 
+<<<<<<< HEAD
 ENJOY
+=======
+ENJOY
+>>>>>>> f5ada4afaf1d80b08360bb074b503b4549d655c9
